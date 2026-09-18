@@ -2,27 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://enriquehernandez.art/</loc>
-    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://en.enriquehernandez.art/</loc>
+  </url>
+  <url>
+    <loc>https://musica.enriquehernandez.art/</loc>
+  </url>
+  <url>
+    <loc>https://music.enriquehernandez.art/</loc>
+  </url>
+  <url>
+    <loc>https://escritos.enriquehernandez.art/</loc>
+  </url>
+  <url>
+    <loc>https://cartas.enriquehernandez.art/</loc>
   </url>
   <url>
     <loc>https://theuncanny.enriquehernandez.art/</loc>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://texturalanatomy.enriquehernandez.art/</loc>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dualvoices.enriquehernandez.art/</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://about.enriquehernandez.art/</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://contact.enriquehernandez.art/</loc>
-    <priority>0.9</priority>
   </url>
 </urlset>
-
